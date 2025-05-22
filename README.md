@@ -33,16 +33,4 @@ This project is licensed under the MIT License.
 
 ---
 
-### 📜 Why include a license?
-
-A license tells others what they can and can't do with your code. Without a license, others technically don't have permission to use, copy, modify, or distribute your code.
-
-### 🔑 About MIT License
-
-The MIT License is one of the most permissive open-source licenses. It allows anyone to:
-- Use your code for any purpose (even commercially)
-- Modify and distribute it
-- Keep their changes private or open
-
-All they have to do is **include the original license** in any copies or substantial portions of the code. You're not liable for damages if something goes wrong when they use your code.
 
